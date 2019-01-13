@@ -1,0 +1,15 @@
+{
+  "name": "sk-tree",
+  "version": "0.1.0",
+  "author": "sk",
+  "summary": "This is for Tree",
+  "license": "Apache-2.0",
+  "source": "git@github.com:sureshgithub257/puppet-tree.git",
+  "project_page": null,
+  "issues_url": "https://github.com/sureshgithub257/puppet-tree/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
