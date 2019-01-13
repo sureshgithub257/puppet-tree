@@ -1,4 +1,4 @@
-class ::tree::install {
+class tree::install {
   package { 'tree':
     ensure => present,
   }
